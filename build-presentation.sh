@@ -5,4 +5,4 @@ TEMPLATE=template-index.html
 TRANSITION=slide
 THEME=black
 
-pandoc -t revealjs --template=$TEMPLATE -s --variable theme="$THEME" --variable transition="$TRANSITION" --variable revealjs-url="./" $machinelearning.md -o machinelearning.html
+pandoc -t revealjs --template=$TEMPLATE -s --variable theme="$THEME" --variable transition="$TRANSITION" --variable revealjs-url="./" machinelearning.md -o index.html
