@@ -68,6 +68,46 @@ In reinforcement learning the data isn’t given to the machine but the machine 
 We’ll be focusing on reinforcement learning!
 </aside class="notes">
 
+#
+![](http://neuro.cs.ut.ee/wp-content/uploads/2015/12/Deep_Mind_RL1-300x173.jpg)
+<aside class="notes">Reinforcement learning allows machines and software agents 
+to determine the correct behaviour in a specific context through interaction with
+the environment. It’s goal is to maximize its performance.
+How it does that is that  we have a machine or software acting as our agent that
+follows specific rules and regulations
+At each action step that the agent needs to take it will calculate all of the
+possible outcomes and rewards and choose the action that it thinks will best lead 
+to a reward
+the machine or software agent learns the best behavior based on feedback from the
+environment
+</aside class="notes">
+
+#
+![](https://s-media-cache-ak0.pinimg.com/564x/1e/6f/df/1e6fdf452eb15542bc50e3fd20ea1739.jpg) 
+
+<aside class="notes">
+Reinforcement learning is based in psychological conditioning, and uses a simple reward feedback known as the reinforcement signal.  This causes the agent to “learn” it’s behavior. 
+There are algorithms that employ this simple reward feedback with machines, and in fact Reinforcement Learning is defined as a specific type of problem and all of it’s solutions are classified as Reinforcement Learning algorithms. 
+</aside class="notes">
+
+#
+![](http://karpathy.github.io/assets/rl/mdp.png)
+<aside class="notes">
+When presented with a problem the agent (in these cases the machine) is tasked with deciding the best action based on the current state. 
+When this step is repeated, the problem is known as a Markov Decision Process. 
+</aside class="notes">
+
+# 
+![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/000/402/607/datas/original.png)
+<aside class="notes">
+One great representation of how reinforcement learning works is IBM’s Watson. 
+Watson is a highly advanced version of reinforcement learning and this video clip
+can show you a bit about how it learns. 
+</aside class="notes">
+
+#
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Xcmh1LQB9I?rel=0&amp;controls=0&amp&start=309&end=330;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 <!--# -->
 
 <!--Let's Review!-->
