@@ -135,7 +135,7 @@ Real World Applications
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/144946912@N06/31328153661/in/dateposted-public/" title="Capture"><img src="https://c6.staticflickr.com/6/5655/31328153661_37a74f6bee_h.jpg" width="1600" height="819" alt="Capture"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<aside class="notes">Have you ever wondered how google photos knows what your pictures are and how to search through them? Google’s software allows you to search for things like “ocean” or “dog” and returns your picture that match the criteria. This is made possible by the neural networks within image recognition technology.</aside class="notes">
+<aside class="notes">Have you ever wondered how google photos knows what your pictures are and how to search through them? Google’s software allows you to search for things like “ocean” or “dog” and returns pictures that best match the criteria. This is made possible by the neural networks within image recognition technology.</aside class="notes">
 
 <!--15 -->
 
@@ -165,7 +165,7 @@ Real World Applications
 
 ![](https://www.v3.co.uk/IMG/922/339922/google-alphago-logo-540x334.png?1453991806)
 
-Another application of neural networks is within the gaming sphere. AlphaGo is a technology that has just this past summer defeated the world's best Go player, which is a huge milestone in machine learning.
+<aside class="notes">Another application of neural networks is within the gaming sphere. AlphaGo is a technology that has just this past summer defeated the world's best Go player, which is a huge milestone in machine learning given how complex the game is.</aside class="notes">
 
 #
 
@@ -176,6 +176,7 @@ Another application of neural networks is within the gaming sphere. AlphaGo is a
 ![](https://www.tastehit.com/blog/content/images/2016/03/policy-value-networks.png)
 
 <aside class="notes">Google’s AlphaGo technology is also made possible by neural networks! More specifically, AlphaGo uses two neural networks, one Value Network and one Policy Network.</aside class="notes">
+
 <aside class="notes">The “policy network”, predicts the next move, and is used to narrow the search to consider only the moves most likely to lead to a win. The other neural network, the “value network”, is then used to reduce the depth of the search tree -- estimating the winner in each position in place of searching all the way to the end of the game.</aside class="notes">
 
 <!--16-->
@@ -192,7 +193,7 @@ Another application of neural networks is within the gaming sphere. AlphaGo is a
 
 ![](https://gogameguru.com/i/2016/03/AlphaGo-Lee-Sedol-first-move.jpg)
 
-<aside class="notes">AlphaGo proved itself by defeating the 18-time world champion of Go, Lee Sedol from South Korea this past March in a 5 game match. AlphaGo won four of the games and Lee Sedol won one. This was a major breakthrough in machine learning research and it represents great strides towards mastering artificial intelligence.</aside class="notes">
+<aside class="notes">AlphaGo proved itself by defeating the 18-time world champion of Go, Lee Sedol from South Korea this past March in a 5 game match. AlphaGo won four of the games and Lee Sedol won one. </aside class="notes">
 
 <!--16-->
 
@@ -205,7 +206,6 @@ Interactions with Neural Networks in Daily Life
 #
 
 ![](https://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/06/Netflix-Older-Logo.png)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Skype_logo.svg/2000px-Skype_logo.svg.png)
 
 <aside class="notes">For instance, skype utilizes neural networks to allow for instantaneous communication across language barriers. 
 Facebook uses it in facial recognition technology that allows for instant tagging of your friends in your pictures.
@@ -213,9 +213,9 @@ Lastly, Netflix uses it to better predict watching trends and to improve upon tv
 
 <!--20-->
 
-#
+<!--#-->
 
-<aside class="notes">Ultimately, this technology is important because, as said by Google, “our hope is that one day the (technology) could be extended to help us address some of society’s toughest and most pressing problems, from climate modelling to complex disease analysis.”</aside class="notes">
+<!--<aside class="notes">Ultimately, this technology is important because, as said by Google, “our hope is that one day the (technology) could be extended to help us address some of society’s toughest and most pressing problems, from climate modelling to complex disease analysis.”</aside class="notes">-->
 
 #
 
