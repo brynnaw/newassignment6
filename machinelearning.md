@@ -1,8 +1,10 @@
 % Neural Networks and Machine Learning
 % Brynna, Erin, and Amanda
 % December 10, 2016
+
 <section data-audio-src="audio/slide01.mp3" data-background="#56A0D3"> 
 </section>
+
 # 
 
 * What are they?
@@ -175,8 +177,6 @@ Real World Applications
 
 <aside class="notes">Have you ever wondered how google photos knows what your pictures are and how to search through them? Google’s software allows you to search for things like “ocean” or “dog” and returns pictures that best match the criteria. This is made possible by the neural networks within image recognition technology.</aside class="notes">
 
-<!--15 -->
-
 #
 
 <section data-audio-src="audio/SOME-AUDIO.ogg" data-background="#56A0D3"> 
@@ -185,8 +185,6 @@ Real World Applications
 ![](https://cdn-images-1.medium.com/max/1200/1*jYKYXkfI4iaE6qg-dEUEcQ.jpeg)
 
 <aside class="notes">As a very simplified example, take this neural network that is trained to recognize the likelihood that a handwritten character is an “8”. While this seems like an easy task, just look at all of the different ways to write an 8.</aside class="notes">
-
-<!--10-->
 
 #
 
@@ -206,8 +204,6 @@ Real World Applications
 
 <aside class="notes">Then, through supervised learning and millions of image data, we can train the network to recognize 8’s and create the correct intermediate values by feeding it training data and telling it the probability of an 8 is 100%, not an 8 is 0% or vice versa.</aside class="notes">
 
-<!--25-->
-
 #
 
 <section data-audio-src="audio/SOME-AUDIO.ogg" data-background="#56A0D3"> 
@@ -219,9 +215,10 @@ Real World Applications
 
 #
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SUbqykXVx0A?rel=0&amp;controls=0&amp&start=27&end=44;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 #
+
 <section data-audio-src="audio/SOME-AUDIO.ogg" data-background="#56A0D3"> 
 </section>
 ![](https://www.tastehit.com/blog/content/images/2016/03/policy-value-networks.png)
@@ -230,32 +227,20 @@ Real World Applications
 
 <aside class="notes">The “policy network”, predicts the next move, and is used to narrow the search to consider only the moves most likely to lead to a win. The other neural network, the “value network”, is then used to reduce the depth of the search tree -- estimating the winner in each position in place of searching all the way to the end of the game.</aside class="notes">
 
-<!--16-->
+<!--#-->
+<!--![](https://i.ytimg.com/vi/g-dKXOlsf98/maxresdefault.jpg)-->
+
+<!--<aside class="notes">Developers at Google trained AlphaGo first by a supervised learning technique from expert human moves, and then by reinforcement learning by essentially playing itself thousands of times over.</aside class="notes">-->
+
+<!--#-->
+<!--![](https://gogameguru.com/i/2016/03/AlphaGo-Lee-Sedol-first-move.jpg)-->
+
+<!--<aside class="notes">AlphaGo proved itself by defeating the 18-time world champion of Go, Lee Sedol from South Korea this past March in a 5 game match. AlphaGo won four of the games and Lee Sedol won one. </aside class="notes">-->
 
 #
 <section data-audio-src="audio/SOME-AUDIO.ogg" data-background="#56A0D3"> 
 </section>
-![](https://i.ytimg.com/vi/g-dKXOlsf98/maxresdefault.jpg)
 
-<aside class="notes">Developers at Google trained AlphaGo first by a supervised learning technique from expert human moves, and then by reinforcement learning by essentially playing itself thousands of times over.</aside class="notes">
-
-<!--23-->
-
-#
-
-<section data-audio-src="audio/SOME-AUDIO.ogg" data-background="#56A0D3"> 
-</section>
-
-![](https://gogameguru.com/i/2016/03/AlphaGo-Lee-Sedol-first-move.jpg)
-
-<aside class="notes">AlphaGo proved itself by defeating the 18-time world champion of Go, Lee Sedol from South Korea this past March in a 5 game match. AlphaGo won four of the games and Lee Sedol won one. </aside class="notes">
-
-<!--16-->
-
-#
-
-<section data-audio-src="audio/SOME-AUDIO.ogg" data-background="#56A0D3"> 
-</section>
 Interactions with Neural Networks in Daily Life
 
 <aside class="notes">Although these examples are cool, I’m sure you’re wondering how it relates to your daily life. You might be surprised to know that you likely interact with neural networks on a daily basis!</aside class="notes">
@@ -270,8 +255,6 @@ Interactions with Neural Networks in Daily Life
 <aside class="notes">For instance, skype utilizes neural networks to allow for instantaneous communication across language barriers. 
 Facebook uses it in facial recognition technology that allows for instant tagging of your friends in your pictures.
 Lastly, Netflix uses it to better predict watching trends and to improve upon tv show and movie recommendations.</aside class="notes">
-
-<!--20-->
 
 <!--#-->
 
