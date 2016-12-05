@@ -3,9 +3,10 @@
 % December 10, 2016
 
 # 
-1. What are they?
-2. How do they work?
-3. Examples & Why it matters
+
+* What are they?
+* How do they work?
+* Examples & Why it matters
 
 <aside class="notes"> 
 
@@ -67,4 +68,109 @@ In reinforcement learning the data isn’t given to the machine but the machine 
 We’ll be focusing on reinforcement learning!
 </aside class="notes">
 
-# 
+<!--# -->
+
+<!--Let's Review!-->
+
+<!--<aside class="notes">That was a lot of information! Now let’s briefly review it to make sure we understand:</aside class="notes">-->
+
+<!--# -->
+
+<!--Information processing algorithms-->
+<!--* Make predictions about sets of data-->
+<!--* Create nodes that take in a set of inputs, apply weights to them, and calculate an output value-->
+
+<!--![](https://cdn-images-1.medium.com/max/716/1*Lt8RZaeQ6f6B_eA1oD32JQ.png)-->
+
+<!--<aside class="notes">We learned that neural networks are information processing algorithms that attempt to make predictions about sets of data. They do this by creating nodes that take in a set of inputs, apply weights to them, and calculate an output value.</aside class="notes">-->
+
+#
+
+Real World Applications
+
+<aside class="notes">Now let’s dive into some real world applications to see how this technology can be utilized productively.</aside class="notes">
+
+#
+
+![]()
+
+<aside class="notes">Have you ever wondered how google photos knows what your pictures are and how to search through them? Google’s software allows you to search for things like “ocean” or “dog” and returns your picture that match the criteria. This is made possible by the neural networks within image recognition technology.</aside class="notes">
+
+<!--15 -->
+
+#
+
+![](https://cdn-images-1.medium.com/max/1200/1*jYKYXkfI4iaE6qg-dEUEcQ.jpeg)
+
+<aside class="notes">As a very simplified example, take this neural network that is trained to recognize the likelihood that a handwritten character is an “8”. While this seems like an easy task, just look at all of the different ways to write an 8.</aside class="notes">
+
+<!--10-->
+
+#
+
+![](https://cdn-images-1.medium.com/max/800/1*zY1qFB9aFfZz66YxxoI2aw.gif)
+
+<aside class="notes">For this example, the neural network’s inputs are simply numbers that represent how dark each pixel is within the image. Each of the 324 pixel’s darkness numbers is a node.</aside class="notes">
+
+#
+
+![](https://cdn-images-1.medium.com/max/800/1*b31hqXiBUjIXo2HSn_grFw.png)
+
+<aside class="notes">Then, through supervised learning and millions of image data, we can train the network to recognize 8’s and create the correct intermediate values by feeding it training data and telling it the probability of an 8 is 100%, not an 8 is 0% or vice versa.</aside class="notes">
+
+<!--25-->
+
+#
+
+![](https://www.v3.co.uk/IMG/922/339922/google-alphago-logo-540x334.png?1453991806)
+
+<aside class="notes">Remember the introduction video at the beginning of the presentation? Google’s AlphaGo technology is also made possible by neural networks! More specifically, AlphaGo uses two neural networks, one Value Network and one Policy Network.</aside class="notes">
+
+#
+
+![](https://i.ytimg.com/vi/g-dKXOlsf98/maxresdefault.jpg)
+
+<aside class="notes">Developers at Google trained AlphaGo first by a supervised learning technique from expert human moves, and then by reinforcement learning by essentially playing itself thousands of times over.</aside class="notes">
+
+<!--23-->
+
+#
+
+![](https://www.tastehit.com/blog/content/images/2016/03/policy-value-networks.png)
+
+<aside class="notes">The “policy network”, predicts the next move, and is used to narrow the search to consider only the moves most likely to lead to a win. The other neural network, the “value network”, is then used to reduce the depth of the search tree -- estimating the winner in each position in place of searching all the way to the end of the game.</aside class="notes">
+
+<!--16-->
+
+#
+
+![](https://gogameguru.com/i/2016/03/AlphaGo-Lee-Sedol-first-move.jpg)
+
+<aside class="notes">AlphaGo proved itself by defeating the 18-time world champion of Go, Lee Sedol from South Korea this past March in a 5 game match. AlphaGo won four of the games and Lee Sedol won one. This was a major breakthrough in machine learning research and it represents great strides towards mastering artificial intelligence.</aside class="notes">
+
+<!--16-->
+
+#
+
+Interactions with Neural Networks in Daily Life
+
+<aside class="notes">Although these examples are cool, I’m sure you’re wondering how it relates to your daily life. You might be surprised to know that you likely interact with neural networks on a daily basis!</aside class="notes">
+
+#
+
+![](https://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/06/Netflix-Older-Logo.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Skype_logo.svg/2000px-Skype_logo.svg.png)
+
+<aside class="notes">For instance, skype utilizes neural networks to allow for instantaneous communication across language barriers. 
+Facebook uses it in facial recognition technology that allows for instant tagging of your friends in your pictures.
+Lastly, Netflix uses it to better predict watching trends and to improve upon tv show and movie recommendations.</aside class="notes">
+
+<!--20-->
+
+#
+
+<aside class="notes">Ultimately, this technology is important because, as said by Google, “our hope is that one day the (technology) could be extended to help us address some of society’s toughest and most pressing problems, from climate modelling to complex disease analysis.”</aside class="notes">
+
+#
+
+THE END!
