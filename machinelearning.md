@@ -92,7 +92,7 @@ Real World Applications
 
 #
 
-![]()
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/144946912@N06/31328153661/in/dateposted-public/" title="Capture"><img src="https://c6.staticflickr.com/6/5655/31328153661_37a74f6bee_h.jpg" width="1600" height="819" alt="Capture"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <aside class="notes">Have you ever wondered how google photos knows what your pictures are and how to search through them? Google’s software allows you to search for things like “ocean” or “dog” and returns your picture that match the criteria. This is made possible by the neural networks within image recognition technology.</aside class="notes">
 
