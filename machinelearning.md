@@ -124,7 +124,20 @@ Real World Applications
 
 ![](https://www.v3.co.uk/IMG/922/339922/google-alphago-logo-540x334.png?1453991806)
 
-<aside class="notes">Remember the introduction video at the beginning of the presentation? Google’s AlphaGo technology is also made possible by neural networks! More specifically, AlphaGo uses two neural networks, one Value Network and one Policy Network.</aside class="notes">
+Another application of neural networks is within the gaming sphere. AlphaGo is a technology that has just this past summer defeated the world's best Go player, which is a huge milestone in machine learning.
+
+#
+
+
+
+#
+
+![](https://www.tastehit.com/blog/content/images/2016/03/policy-value-networks.png)
+
+<aside class="notes">Google’s AlphaGo technology is also made possible by neural networks! More specifically, AlphaGo uses two neural networks, one Value Network and one Policy Network.</aside class="notes">
+<aside class="notes">The “policy network”, predicts the next move, and is used to narrow the search to consider only the moves most likely to lead to a win. The other neural network, the “value network”, is then used to reduce the depth of the search tree -- estimating the winner in each position in place of searching all the way to the end of the game.</aside class="notes">
+
+<!--16-->
 
 #
 
@@ -133,14 +146,6 @@ Real World Applications
 <aside class="notes">Developers at Google trained AlphaGo first by a supervised learning technique from expert human moves, and then by reinforcement learning by essentially playing itself thousands of times over.</aside class="notes">
 
 <!--23-->
-
-#
-
-![](https://www.tastehit.com/blog/content/images/2016/03/policy-value-networks.png)
-
-<aside class="notes">The “policy network”, predicts the next move, and is used to narrow the search to consider only the moves most likely to lead to a win. The other neural network, the “value network”, is then used to reduce the depth of the search tree -- estimating the winner in each position in place of searching all the way to the end of the game.</aside class="notes">
-
-<!--16-->
 
 #
 
