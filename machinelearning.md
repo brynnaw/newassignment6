@@ -2,10 +2,10 @@
 % Brynna, Erin, and Amanda
 % December 10, 2016
 
-<section data-audio-src="audio/slide01.mp3" data-background="#56A0D3"> 
-</section>
 
 # 
+<section data-audio-src="audio/slide01.mp3" data-background="#56A0D3"> 
+</section>
 
 * What are they?
 * How do they work?
@@ -107,7 +107,7 @@ environment
 <section data-audio-src="audio/slide07.mp3" data-background="#56A0D3"> 
 </section>
 
-![](https://s-media-cache-ak0.pinimg.com/564x/1e/6f/df/1e6fdf452eb15542bc50e3fd20ea1739.jpg) 
+![](https://www.cs.utexas.edu/~eladlieb/rl_interaction.png) 
 
 <aside class="notes">
 Reinforcement learning is based in psychological conditioning, and uses a simple reward feedback known as the reinforcement signal.  This causes the agent to “learn” it’s behavior. 
@@ -171,7 +171,7 @@ Real World Applications
 
 #
 
-<section data-audio-src="audio/SOME-AUDIO.ogg" data-background="#56A0D3"> 
+<section data-audio-src="audio/slide11.mp3" data-background="#56A0D3"> 
 </section>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/144946912@N06/31328153661/in/dateposted-public/" title="Capture"><img src="https://c6.staticflickr.com/6/5655/31328153661_37a74f6bee_h.jpg" width="1600" height="819" alt="Capture"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -180,7 +180,7 @@ Real World Applications
 
 #
 
-<section data-audio-src="audio/slide11.mp3" data-background="#56A0D3"> 
+<section data-audio-src="audio/slide12.mp3" data-background="#56A0D3"> 
 </section>
 
 ![](https://cdn-images-1.medium.com/max/1200/1*jYKYXkfI4iaE6qg-dEUEcQ.jpeg)
@@ -189,7 +189,7 @@ Real World Applications
 
 #
 
-<section data-audio-src="audio/slide12.mp3" data-background="#56A0D3"> 
+<section data-audio-src="audio/slide13.mp3" data-background="#56A0D3"> 
 </section>
 
 ![](https://cdn-images-1.medium.com/max/800/1*zY1qFB9aFfZz66YxxoI2aw.gif)
@@ -198,7 +198,7 @@ Real World Applications
 
 #
 
-<section data-audio-src="audio/slide12.mp3" data-background="#56A0D3"> 
+<section data-audio-src="audio/slide14.mp3" data-background="#56A0D3"> 
 </section>
 
 ![](https://cdn-images-1.medium.com/max/800/1*b31hqXiBUjIXo2HSn_grFw.png)
@@ -207,7 +207,7 @@ Real World Applications
 
 #
 
-<section data-audio-src="audio/slide13.mp3" data-background="#56A0D3"> 
+<section data-audio-src="audio/slide15.mp3" data-background="#56A0D3"> 
 </section>
 
 ![](https://www.v3.co.uk/IMG/922/339922/google-alphago-logo-540x334.png?1453991806)
@@ -220,7 +220,7 @@ Real World Applications
 
 #
 
-<section data-audio-src="audio/slide14.mp3" data-background="#56A0D3"> 
+<section data-audio-src="audio/slide16.mp3" data-background="#56A0D3"> 
 </section>
 ![](https://www.tastehit.com/blog/content/images/2016/03/policy-value-networks.png)
 
@@ -239,7 +239,7 @@ Real World Applications
 <!--<aside class="notes">AlphaGo proved itself by defeating the 18-time world champion of Go, Lee Sedol from South Korea this past March in a 5 game match. AlphaGo won four of the games and Lee Sedol won one. </aside class="notes">-->
 
 #
-<section data-audio-src="audio/slide15.mp3" data-background="#56A0D3"> 
+<section data-audio-src="audio/slide17.mp3" data-background="#56A0D3"> 
 </section>
 
 Interactions with Neural Networks in Daily Life
@@ -248,7 +248,7 @@ Interactions with Neural Networks in Daily Life
 
 #
 
-<section data-audio-src="audio/slide16.mp3" data-background="#56A0D3"> 
+<section data-audio-src="audio/slide18.mp3" data-background="#56A0D3"> 
 </section>
 
 ![](https://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/06/Netflix-Older-Logo.png)
