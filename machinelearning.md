@@ -106,6 +106,7 @@ can show you a bit about how it learns.
 </aside class="notes">
 
 #
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Xcmh1LQB9I?rel=0&amp;controls=0&amp&start=309&end=330;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <!--# -->
