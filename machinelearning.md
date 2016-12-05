@@ -7,9 +7,9 @@
 <section data-audio-src="audio/slide01.mp3" data-background="#56A0D3"> 
 </section>
 
-* What are they?
-* How do they work?
-* Examples & Why it matters
+ What are they?
+ How do they work?
+ Examples & Why it matters
 
 <aside class="notes"> 
 
