@@ -89,7 +89,7 @@ We’ll be focusing on reinforcement learning!
 <section data-audio-src="audio/slide06.mp3" data-background="#56A0D3"> 
 </section>
 
-![](http://neuro.cs.ut.ee/wp-content/uploads/2015/12/Deep_Mind_RL1-300x173.jpg)
+![](https://www.cs.utexas.edu/~eladlieb/rl_interaction.png)
 <aside class="notes">Reinforcement learning allows machines and software agents 
 to determine the correct behaviour in a specific context through interaction with
 the environment. It’s goal is to maximize its performance.
@@ -107,7 +107,7 @@ environment
 <section data-audio-src="audio/slide07.mp3" data-background="#56A0D3"> 
 </section>
 
-![](https://www.cs.utexas.edu/~eladlieb/rl_interaction.png) 
+![](http://www.myhandfamily.com/blog/wp-content/uploads/2009/09/Stivers-2-10-03-Pavlovs-dogs.gif) 
 
 <aside class="notes">
 Reinforcement learning is based in psychological conditioning, and uses a simple reward feedback known as the reinforcement signal.  This causes the agent to “learn” it’s behavior. 
@@ -136,14 +136,14 @@ Watson is a highly advanced version of reinforcement learning and this video cli
 can show you a bit about how it learns. 
 </aside class="notes">
 
-<h1> IBM's Watson </h1>
+<!--<h1> IBM's Watson </h1>-->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_Xcmh1LQB9I?rel=0&amp;controls=0&amp&start=309&end=330;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/_Xcmh1LQB9I?rel=0&amp;controls=0&amp&start=309&end=330;showinfo=0" frameborder="0" allowfullscreen></iframe>-->
 
-<section>
-    <video data-audio-controls src="./video/watson.mp4#t=S309,330" type="video/mp4" width="100%" />
-  </video>
-</section>
+<!--<section>-->
+<!--    <video data-audio-controls src="./video/watson.mp4#t=S309,330" type="video/mp4" width="100%" />-->
+<!--  </video>-->
+<!--</section>-->
 <!--# -->
 
 <!--Let's Review!-->
