@@ -136,11 +136,8 @@ Watson is a highly advanced version of reinforcement learning and this video cli
 can show you a bit about how it learns. 
 </aside class="notes">
 
-<h1></h1>
-<section data-audio-src="audio/SOME-AUDIO.ogg" data-background="#56A0D3"> 
-</section>
+<h1> IBM's Watson </h1>
 
-# IBM's Watson
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Xcmh1LQB9I?rel=0&amp;controls=0&amp&start=309&end=330;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <section>
@@ -165,7 +162,7 @@ can show you a bit about how it learns.
 
 #
 
-<section data-audio-src="audio/SOME-AUDIO.ogg" data-background="#56A0D3"> 
+<section data-audio-src="audio/slide10.mp3" data-background="#56A0D3"> 
 </section>
 
 Real World Applications
@@ -183,7 +180,7 @@ Real World Applications
 
 #
 
-<section data-audio-src="audio/SOME-AUDIO.ogg" data-background="#56A0D3"> 
+<section data-audio-src="audio/slide11.mp3" data-background="#56A0D3"> 
 </section>
 
 ![](https://cdn-images-1.medium.com/max/1200/1*jYKYXkfI4iaE6qg-dEUEcQ.jpeg)
@@ -192,7 +189,7 @@ Real World Applications
 
 #
 
-<section data-audio-src="audio/SOME-AUDIO.ogg" data-background="#56A0D3"> 
+<section data-audio-src="audio/slide12.mp3" data-background="#56A0D3"> 
 </section>
 
 ![](https://cdn-images-1.medium.com/max/800/1*zY1qFB9aFfZz66YxxoI2aw.gif)
@@ -201,7 +198,7 @@ Real World Applications
 
 #
 
-<section data-audio-src="audio/SOME-AUDIO.ogg" data-background="#56A0D3"> 
+<section data-audio-src="audio/slide12.mp3" data-background="#56A0D3"> 
 </section>
 
 ![](https://cdn-images-1.medium.com/max/800/1*b31hqXiBUjIXo2HSn_grFw.png)
@@ -210,7 +207,7 @@ Real World Applications
 
 #
 
-<section data-audio-src="audio/SOME-AUDIO.ogg" data-background="#56A0D3"> 
+<section data-audio-src="audio/slide13.mp3" data-background="#56A0D3"> 
 </section>
 
 ![](https://www.v3.co.uk/IMG/922/339922/google-alphago-logo-540x334.png?1453991806)
@@ -223,7 +220,7 @@ Real World Applications
 
 #
 
-<section data-audio-src="audio/SOME-AUDIO.ogg" data-background="#56A0D3"> 
+<section data-audio-src="audio/slide14.mp3" data-background="#56A0D3"> 
 </section>
 ![](https://www.tastehit.com/blog/content/images/2016/03/policy-value-networks.png)
 
@@ -242,7 +239,7 @@ Real World Applications
 <!--<aside class="notes">AlphaGo proved itself by defeating the 18-time world champion of Go, Lee Sedol from South Korea this past March in a 5 game match. AlphaGo won four of the games and Lee Sedol won one. </aside class="notes">-->
 
 #
-<section data-audio-src="audio/SOME-AUDIO.ogg" data-background="#56A0D3"> 
+<section data-audio-src="audio/slide15.mp3" data-background="#56A0D3"> 
 </section>
 
 Interactions with Neural Networks in Daily Life
@@ -251,7 +248,7 @@ Interactions with Neural Networks in Daily Life
 
 #
 
-<section data-audio-src="audio/SOME-AUDIO.ogg" data-background="#56A0D3"> 
+<section data-audio-src="audio/slide16.mp3" data-background="#56A0D3"> 
 </section>
 
 ![](https://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/06/Netflix-Older-Logo.png)
