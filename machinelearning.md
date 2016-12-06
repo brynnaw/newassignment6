@@ -214,9 +214,9 @@ Real World Applications
 
 <aside class="notes">Another application of neural networks is within the gaming sphere. AlphaGo is a technology that has just this past summer defeated the world's best Go player, which is a huge milestone in machine learning given how complex the game is.</aside class="notes">
 
-#
+<!--#-->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SUbqykXVx0A?rel=0&amp;controls=0&amp&start=27&end=44;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/SUbqykXVx0A?rel=0&amp;controls=0&amp&start=27&end=44;showinfo=0" frameborder="0" allowfullscreen></iframe>-->
 
 #
 
