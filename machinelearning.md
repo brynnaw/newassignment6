@@ -135,7 +135,7 @@ One great representation of how reinforcement learning works is IBM’s Watson.
 Watson is a highly advanced version of reinforcement learning and this video clip
 can show you a bit about how it learns. 
 
-[![How Watson Works Youtube Clip](https://youtu.be/_Xcmh1LQB9I/0.jpg)](https://youtu.be/_Xcmh1LQB9I)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Xcmh1LQB9I" frameborder="0" allowfullscreen></iframe>
 
 </aside class="notes">
 
