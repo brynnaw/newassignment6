@@ -7,9 +7,9 @@
 <section data-audio-src="audio/slide01.mp3" data-background="#56A0D3"> 
 </section>
 
- What are they?
- How do they work?
- Examples & Why it matters
+*  What are they?
+* How do they work?
+* Examples & Why it matters
 
 <aside class="notes"> 
 
@@ -134,6 +134,9 @@ When this step is repeated, the problem is known as a Markov Decision Process.
 One great representation of how reinforcement learning works is IBM’s Watson. 
 Watson is a highly advanced version of reinforcement learning and this video clip
 can show you a bit about how it learns. 
+
+[![How Watson Works Youtube Clip](https://youtu.be/_Xcmh1LQB9I/0.jpg)](https://youtu.be/_Xcmh1LQB9I)
+
 </aside class="notes">
 
 <!--<h1> IBM's Watson </h1>-->
