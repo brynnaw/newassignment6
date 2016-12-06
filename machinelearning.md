@@ -142,7 +142,7 @@ can show you a bit about how it learns.
 # IBM's Watson 
 
 <section>
-    <video data-audio-controls src="./video/watson.mp4" type="video/mp4" width="100%" />
+    <video data-audio-controls src="./video/watson.mp4#t=STARTTIME,ENDTIME type="video/mp4" width="100%" />
   </video>
 </section>
 
