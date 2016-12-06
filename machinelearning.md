@@ -139,12 +139,9 @@ can show you a bit about how it learns.
 
 </aside class="notes">
 
-# IBM's Watson 
+<!--# IBM's Watson -->
 
-<section>
-    <video data-audio-controls src="./video/watson.mp4#t=STARTTIME,ENDTIME type="video/mp4" width="100%" />
-  </video>
-</section>
+<!--https://www.youtube.com/watch?v=_Xcmh1LQB9I -->
 
 <!--# -->
 
