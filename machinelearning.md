@@ -125,19 +125,19 @@ When presented with a problem the agent (in these cases the machine) is tasked w
 When this step is repeated, the problem is known as a Markov Decision Process. 
 </aside class="notes">
 
-# 
-<section data-audio-src="audio/slide09.mp3" data-background="#56A0D3"> 
-</section>
+<!--# -->
+<!--<section data-audio-src="audio/slide09.mp3" data-background="#56A0D3"> -->
+<!--</section>-->
 
-![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/000/402/607/datas/original.png)
-<aside class="notes">
-One great representation of how reinforcement learning works is IBM’s Watson. 
-Watson is a highly advanced version of reinforcement learning and this video clip
-can show you a bit about how it learns. 
+<!--![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/000/402/607/datas/original.png)-->
+<!--<aside class="notes">-->
+<!--One great representation of how reinforcement learning works is IBM’s Watson. -->
+<!--Watson is a highly advanced version of reinforcement learning and this video clip-->
+<!--can show you a bit about how it learns. -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_Xcmh1LQB9I" frameborder="0" allowfullscreen></iframe>
+<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/_Xcmh1LQB9I" frameborder="0" allowfullscreen></iframe>-->
 
-</aside class="notes">
+<!--</aside class="notes">-->
 
 <!--# IBM's Watson -->
 
